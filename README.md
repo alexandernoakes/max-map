@@ -1,3 +1,3 @@
-# max-map
+# max-msp
 
 Place to Park Max MSP Patches
